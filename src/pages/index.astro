@@ -1,0 +1,487 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const pillars = [
+  {
+    title: "Aventi",
+    desc:
+      "The discovery and coordination wedge that answers \"what should I do with my free time, and with whom?\" Event and experience discovery, personalized feeds, social coordination, and frictionless planning.",
+    bullets: [
+      "Event and experience discovery",
+      "Free-time recommendations and social coordination",
+      "Calendar-aware suggestions and opportunity matching",
+    ],
+  },
+  {
+    title: "iDo",
+    desc:
+      "The successor identity: a life operating system and goal-to-action support layer that helps people organize goals, understand context, and coordinate execution.",
+    bullets: [
+      "Organize goals and constraints",
+      "Identify next steps and connect tools",
+      "Reduce execution friction over time",
+    ],
+  },
+  {
+    title: "Internet of Opportunities",
+    desc:
+      "The broader landscape iDo helps people navigate: people, tasks, resources, collaborators, and places to go turn into actionable pathways.",
+    bullets: [
+      "Opportunity graph spanning goals, people, resources",
+      "Context-aware sequencing and prioritization",
+      "Infrastructure for meaningful action",
+    ],
+  },
+];
+
+const teams = [
+  {
+    title: "AI + Agent Systems",
+    items: [
+      "Planning and orchestration",
+      "Tool use and evaluation loops",
+      "Multi-agent coordination and guardrails",
+    ],
+  },
+  {
+    title: "Backend + Infrastructure",
+    items: [
+      "APIs, integrations, graph systems",
+      "Search, retrieval, and opportunity indexing",
+      "Identity, permissions, and data trust",
+    ],
+  },
+  {
+    title: "Product + Frontend",
+    items: [
+      "Interactive planning dashboards",
+      "State-heavy coordination UIs",
+      "Notification, calendar, and intent flows",
+    ],
+  },
+  {
+    title: "Mobile, Design, Trust",
+    items: [
+      "Context-aware mobile experiences",
+      "Information architecture and systems design",
+      "Privacy, safety, and contributor governance",
+    ],
+  },
+];
+
+const values = [
+  "Clarity over mystique",
+  "Usefulness over hype",
+  "Stewardship over extraction",
+  "Open collaboration over gatekeeping",
+  "Grounded ambition over inflated language",
+  "Systems that genuinely improve people's lives",
+];
+
+const notList = [
+  "Not a personality cult",
+  "Not a speculative future-cosmology project",
+  "Not governance theater or decision cosplay",
+  "Not a token scheme searching for a problem",
+  "Not \"AI for everything\" without product discipline",
+];
+
+const why = [
+  "Public-good technology",
+  "Humane AI systems",
+  "Coordination infrastructure",
+  "Tools that reduce friction instead of generating addiction",
+  "Products that help people make progress in the real world",
+  "Open-source alternatives to shallow engagement platforms",
+];
+---
+
+<Layout>
+  <main class="page">
+    <section class="hero">
+      <div class="hero__copy">
+        <img src="/logo.png" alt="Ascension Technologies" class="logo" />
+        <p class="eyebrow">Mission Brief</p>
+        <h1>Build tools that help people turn goals into action.</h1>
+        <p class="lead">
+          Ascension Technologies is building open-source systems for human flourishing, coordinated action, and opportunity navigation.
+          Our core product direction is <strong>iDo</strong>: a life operating system that helps people organize goals, discover relevant
+          opportunities, connect tools and accounts, and turn intention into practical execution.
+        </p>
+        <p>
+          Our initial wedge is <strong>Aventi</strong>, focused on experiences, events, free time, and social opportunity. Behind both sits the
+          <strong>Internet of Opportunities (IOO)</strong> — the landscape of opportunities, resources, collaborators, tools, tasks, and pathways that
+          people need help seeing and acting on.
+        </p>
+        <div class="cta-row">
+          <a class="btn primary" href="#product">Explore the product direction</a>
+          <a class="btn ghost" href="#contribute">See how to contribute</a>
+        </div>
+      </div>
+      <div class="hero__panel">
+        <div class="stat">
+          <span>Purpose</span>
+          <p>Close the gap between intention and execution for humans everywhere.</p>
+        </div>
+        <div class="stat">
+          <span>Structure</span>
+          <p>Non-profit, open-source DAO stewarding public-good infrastructure.</p>
+        </div>
+        <div class="stat">
+          <span>Focus</span>
+          <p>Goal-to-action systems, opportunity navigation, agentic execution.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="problem">
+      <div class="section__heading">
+        <p class="eyebrow">The Gap</p>
+        <h2>Why this matters</h2>
+        <p>
+          Modern life is full of information, options, apps, and advice, yet people still deal with fragmentation, endless searching, manual coordination,
+          wasted effort, and weak support turning goals into realistic next steps. Most tools help people browse or plan — very few help them move cleanly
+          from intention to clarity to opportunity to action to follow-through. That is the gap we are closing.
+        </p>
+      </div>
+    </section>
+
+    <section class="section" id="product">
+      <div class="section__heading">
+        <p class="eyebrow">Product Direction</p>
+        <h2>One ecosystem, three layers</h2>
+        <p>
+          Aventi, iDo, and the IOO form a cohesive product lineage that moves from discovery to orchestration to a fully navigable opportunity environment.
+        </p>
+      </div>
+      <div class="grid pillars">
+        {pillars.map((pillar) => (
+          <article class="card" aria-label={pillar.title}>
+            <h3>{pillar.title}</h3>
+            <p>{pillar.desc}</p>
+            <ul>
+              {pillar.bullets.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ul>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section__heading">
+        <p class="eyebrow">Technical Surface</p>
+        <h2>What makes this interesting to build</h2>
+      </div>
+      <div class="dual">
+        <div>
+          <p>
+            This is not just a content product or another chatbot wrapper. The work involves recommendation systems, opportunity indexing, opportunity graphs,
+            workflow orchestration, account integrations, personal context handling, agent-assisted execution, and coordination across specialized services
+            with strong privacy boundaries.
+          </p>
+        </div>
+        <div class="quote">
+          <strong>Systems problem:</strong> How do you help a person go from a vague goal to a concrete, trustworthy, low-friction path forward?
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="teams">
+      <div class="section__heading">
+        <p class="eyebrow">Who We're Looking For</p>
+        <h2>Builders across disciplines</h2>
+      </div>
+      <div class="grid teams">
+        {teams.map((team) => (
+          <article class="card" aria-label={team.title}>
+            <h3>{team.title}</h3>
+            <ul>
+              {team.items.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ul>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="section" id="values">
+      <div class="section__heading">
+        <p class="eyebrow">Operating Principles</p>
+        <h2>What we value</h2>
+      </div>
+      <ul class="pill-list">
+        {values.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section" id="not">
+      <div class="section__heading">
+        <p class="eyebrow">Expectations</p>
+        <h2>What this is not</h2>
+      </div>
+      <div class="grid split">
+        <div>
+          <p>
+            To keep expectations clean: this is not a personality cult, speculative cosmology, governance theater, or a token scheme searching for a problem.
+            We are building practical systems that make people's lives work better.
+          </p>
+        </div>
+        <ul>
+          {notList.map((item) => (
+            <li>{item}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <section class="section" id="contribute">
+      <div class="section__heading">
+        <p class="eyebrow">Why Contribute</p>
+        <h2>Build something that matters</h2>
+      </div>
+      <div class="grid split">
+        <ul>
+          {why.map((item) => (
+            <li>{item}</li>
+          ))}
+        </ul>
+        <div class="quote">
+          We want collaborators who care about public-good infrastructure, agentic systems, opportunity navigation, workflow orchestration, and
+          human-centered tooling. If that's you, there is meaningful work waiting here.
+        </div>
+      </div>
+    </section>
+
+    <section class="section final">
+      <div class="cta-block">
+        <p class="eyebrow">One-line Version</p>
+        <h2>
+          Ascension Technologies is building open-source systems that help people organize goals, discover opportunities, connect tools, and turn intention into action.
+        </h2>
+        <p>
+          Short pitch: Ascension Technologies is a mission-driven open-source initiative building tools for human flourishing and coordinated action. Our product direction evolves from Aventi, a discovery and social coordination wedge, into iDo, a life operating system that helps people organize goals, discover relevant opportunities, connect tools and accounts, and reduce the friction between intention and execution.
+        </p>
+        <div class="cta-row">
+          <a class="btn primary" href="#teams">Meet the workstreams</a>
+          <a class="btn ghost" href="#problem">Revisit the mission</a>
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<style>
+  .page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 20px 120px;
+    position: relative;
+  }
+
+  .section {
+    margin-top: 120px;
+  }
+
+  .section:first-of-type {
+    margin-top: 80px;
+  }
+
+  .section__heading h2 {
+    margin: 8px 0 12px;
+    font-size: clamp(1.8rem, 3vw, 2.4rem);
+  }
+
+  .section__heading p {
+    max-width: 700px;
+  }
+
+  .hero {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 32px;
+    padding: 56px;
+    border-radius: 32px;
+    background: linear-gradient(135deg, rgba(10, 14, 30, 0.9), rgba(7, 11, 26, 0.85));
+    border: 1px solid var(--line);
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+  }
+
+  .hero__panel {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .stat span {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+  }
+
+  .stat p {
+    margin: 6px 0 0;
+  }
+
+  .logo {
+    width: 160px;
+    margin-bottom: 18px;
+  }
+
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    margin: 10px 0 16px;
+    font-size: clamp(2.4rem, 4vw, 3.6rem);
+    line-height: 1.1;
+  }
+
+  .lead {
+    font-size: 1.15rem;
+    color: var(--text);
+  }
+
+  .cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 22px;
+  }
+
+  .btn {
+    padding: 14px 24px;
+    border-radius: 999px;
+    font-weight: 600;
+    border: 1px solid transparent;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .btn.primary {
+    background: linear-gradient(120deg, var(--gold), var(--accent));
+    color: #050505;
+    box-shadow: 0 10px 30px rgba(244, 194, 107, 0.35);
+  }
+
+  .btn.ghost {
+    border-color: var(--line);
+    color: var(--text);
+    background: transparent;
+  }
+
+  .btn:hover {
+    transform: translateY(-2px);
+  }
+
+  .grid {
+    display: grid;
+    gap: 20px;
+  }
+
+  .pillars {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+
+  .teams {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+
+  .card {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    padding: 24px;
+    backdrop-filter: blur(6px);
+  }
+
+  .card h3 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+
+  .card ul {
+    padding-left: 20px;
+    color: var(--muted);
+  }
+
+  .dual {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 28px;
+    align-items: center;
+  }
+
+  .quote {
+    border-left: 3px solid var(--accent-2);
+    padding: 18px 22px;
+    background: rgba(45, 226, 255, 0.08);
+    border-radius: 18px;
+    font-size: 1.02rem;
+  }
+
+  .pill-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 0;
+  }
+
+  .pill-list li {
+    padding: 10px 18px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .split {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    align-items: center;
+  }
+
+  .split ul {
+    padding-left: 20px;
+  }
+
+  .cta-block {
+    padding: 42px;
+    border-radius: 32px;
+    border: 1px solid var(--line);
+    background: linear-gradient(135deg, rgba(11, 15, 32, 0.9), rgba(7, 11, 26, 0.8));
+    text-align: left;
+  }
+
+  .cta-block h2 {
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+  }
+
+  @media (max-width: 640px) {
+    .hero {
+      padding: 32px;
+    }
+
+    .section {
+      margin-top: 80px;
+    }
+  }
+</style>
