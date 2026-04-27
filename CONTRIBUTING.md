@@ -22,7 +22,7 @@ We are a non-profit, open-source DAO. Contributions are volunteer-based with con
 
 ## Where to start
 
-1. **Join the community** → https://t.me/ascensioncommunity
+1. **Join the community** → https://t.me/ascensiontechai
 2. **Read the README** → understand the architecture
 3. **Pick an area** → see open issues or suggest one
 4. **Build and commit** → clear commit messages, clean PRs
@@ -68,4 +68,4 @@ We are a non-profit, open-source DAO. Contributions are volunteer-based with con
 
 ## Questions?
 
-Open an issue or join → https://t.me/ascensioncommunity
+Open an issue or join → https://t.me/ascensiontechai
