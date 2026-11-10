@@ -14,6 +14,18 @@ Order link: Fiverr song gig
 
 Ad links carry `?utm_source=meta&utm_content=listener|couple|lyrics`. `couple` swaps the hero photo to match the ad.
 
+## Budget (set 2026-11-09)
+Cap: CA$250 per month (ad account currency) for now.
+- Sprint 9-12 Nov: 2 ad sets x CA$15/day = about CA$90. Goal: pick the winning audience and video fast.
+- From 13 Nov: about CA$160 left for the month, about CA$6/day:
+  - Prospecting with the winning audience + winning video(s): about CA$4.50/day
+  - Retargeting (page visitors 30d + engaged video viewers 60d, minus anyone who clicked Order): about CA$1.50/day once the audiences pass ~100 people
+- Each week: one page test (rounds below) and one ad test (new video, image or hook vs the winner).
+
+## Ads
+All 6 ads -> this page. Tracking: pixel Aviel Custom Songs, URL parameters utm_source=meta&utm_content=listener|couple|lyrics.
+Audiences built: "Songs · page visitors 30d", "Songs · engaged video viewers 60d".
+
 ## Rounds
 | Round | Started | Testing | Variants | Result |
 |---|---|---|---|---|
