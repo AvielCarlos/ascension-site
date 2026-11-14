@@ -58,3 +58,8 @@ Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/e
 - 13 Nov: organic Christmas Reel posted to the Ascension Technologies FB Page (utm_medium=organic, utm_content=reel1). Instagram left off (the linked IG is Aventi's).
 - 13 Nov: songs gig occasion swapped Wedding → Christmas (pending save after a Press & Hold check). Swap back after 25 Dec.
 - Fiverr buyer replies: drafts-only scheduled task trig_01Az1zhs6LfyFc6ADSMN8HU8 (9:47, 14:47, 19:47 PT). Nothing is sent without Aviel's "send N".
+
+## 14 Nov 2026 (early)
+- Christmas page now plays a real Christmas sample ("Christmas with the Millers", ElevenLabs Music v2.5, 45s, example names). File: public/songs/christmas/xmas-sample.mp3.
+- Fiverr songs gig turned seasonal (Aviel: "christmas gift songs fully customizable for any taste"): title "I will write a custom christmas gift song in any style"; Christmas description; tags + christmas song (jingle removed); new gig video, Christmas sample audio, gallery x1 (primary) / x2 packages / lead-song. Revert after 25 Dec (old title: "create a custom original song with lyrics, vocals and music"; old video fiverr-song-video.mp4; old audio "Ghost Writer"; old images song-1-hero / "A song that's yours").
+- Retargeting campaign 52667194115713 "Songs retargeting · site visitors + video viewers · CA$20": lifetime CA$20, 4 Dec 06:00 to 18 Dec PT (Meta needs ~14 days minimum for CA$20, so the last-minute window was chosen over 18 Nov), custom audiences Songs page visitors 30d + engaged video viewers 60d as hard controls, all ages/genders US, ads xmas-rt-a / xmas-rt-b to /songs/christmas/.
