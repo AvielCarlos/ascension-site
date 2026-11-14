@@ -55,3 +55,6 @@ Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/e
 ## Christmas campaign (added 13 Nov)
 - 52667179778913 joins the loop. Same kill rule (xmas-a vs xmas-b siblings), same CA$50 retire rule.
 - Hard stop: after Dec 20 orders can't deliver for Christmas, so pause any spend left after 18 Dec.
+- 13 Nov: organic Christmas Reel posted to the Ascension Technologies FB Page (utm_medium=organic, utm_content=reel1). Instagram left off (the linked IG is Aventi's).
+- 13 Nov: songs gig occasion swapped Wedding → Christmas (pending save after a Press & Hold check). Swap back after 25 Dec.
+- Fiverr buyer replies: drafts-only scheduled task trig_01Az1zhs6LfyFc6ADSMN8HU8 (9:47, 14:47, 19:47 PT). Nothing is sent without Aviel's "send N".
