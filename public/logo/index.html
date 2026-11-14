@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Logo & brand identity by Aviel</title>
+<meta name="description" content="A logo and a full brand kit that feels like you. From US$25 on Fiverr.">
+<meta property="og:title" content="Logo & brand identity by Aviel">
+<meta property="og:description" content="A logo and a full brand kit that feels like you. From US$25 on Fiverr.">
+<meta property="og:image" content="https://avielcarlos.github.io/ascension-site/logo/og.jpg">
+<meta name="theme-color" content="#f4ede2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<script>window.FUNNEL = {"pixel": "2153021785300175", "service": "logo", "order": "https://www.fiverr.com/mrandromeda/design-your-logo-and-full-brand-identity-kit", "round": "r1-headline", "variants": [{"key": "a", "weight": 1, "headline": "A brand that feels like you <em>before anyone reads a word.</em>"}, {"key": "b", "weight": 1, "headline": "Look like the business <em>you're becoming.</em>"}, {"key": "c", "weight": 1, "headline": "Your logo, colours and fonts <em>in one kit.</em>"}]};</script>
+<script>
+(function () {
+  var F = window.FUNNEL, qs = new URLSearchParams(location.search), key = qs.get('v'), store = F.service + ':' + F.round;
+  var ok = function (k) { return F.variants.some(function (v) { return v.key === k; }); };
+  if (!ok(key)) { try { key = localStorage.getItem(store); } catch (e) {} }
+  if (!ok(key)) {
+    var total = F.variants.reduce(function (s, v) { return s + v.weight; }, 0), r = Math.random() * total;
+    for (var i = 0; i < F.variants.length; i++) { r -= F.variants[i].weight; if (r < 0) { key = F.variants[i].key; break; } }
+    if (!ok(key)) key = F.variants[0].key;
+  }
+  try { localStorage.setItem(store, key); } catch (e) {}
+  qs.set('v', key);
+  try { history.replaceState(null, '', location.pathname + '?' + qs.toString() + location.hash); } catch (e) {}
+  F.variant = F.variants.filter(function (v) { return v.key === key; })[0];
+  F.params = { service: F.service, round: F.round, variant: key, creative: (qs.get('utm_content') || 'none').toLowerCase(), source: qs.get('utm_source') || 'direct' };
+})();
+</script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', window.FUNNEL.pixel);
+fbq('track', 'PageView');
+fbq('track', 'ViewContent', Object.assign({ content_name: window.FUNNEL.service }, window.FUNNEL.params));
+</script>
+<style>
+:root{--bg:#f4ede2;--bg2:#ebe2d3;--panel:#fbf7f0;--ink:#1b1712;--muted:#6b5f50;--accent:#7a5a22;--accent-ink:#fffaf0;--line:rgba(27,23,18,.12);
+--serif:'Fraunces',Georgia,'Times New Roman',serif;--sans:'Jost','Helvetica Neue',Arial,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 18px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}a{color:inherit}
+.wrap{max-width:1100px;margin:0 auto;padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
+em{font-style:italic;color:var(--accent)}
+.hero .wrap{display:grid;grid-template-columns:1fr 1.05fr;gap:clamp(24px,5vw,64px);align-items:center;padding-block:clamp(48px,9vw,110px) clamp(40px,7vw,80px)}
+.hero .wrap>*{min-width:0}
+.kicker{font:500 13px/1 var(--sans);letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin:0 0 18px}
+h1{font:500 clamp(36px,6vw,64px)/1.05 var(--serif);letter-spacing:-.015em;margin:0 0 18px;text-wrap:balance}
+.lede{font-size:clamp(18px,2.1vw,20px);color:var(--muted);max-width:40ch;margin:0 0 26px;text-wrap:pretty}
+.heroimg{border-radius:22px;box-shadow:0 30px 80px -40px rgba(0,0,0,.55);border:1px solid var(--line)}
+.row{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:10px;background:var(--accent);color:var(--accent-ink);font:600 18px/1 var(--sans);text-decoration:none;padding:18px 28px;border-radius:999px;transition:transform .15s ease}
+.btn:hover{transform:translateY(-2px)}
+.btn:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.price{color:var(--muted);font-size:16px}.price b{color:var(--ink);font-weight:600}
+section{padding-block:clamp(56px,9vw,100px)}
+.alt{background:var(--bg2);border-block:1px solid var(--line)}
+h2{font:500 clamp(28px,4.6vw,46px)/1.08 var(--serif);margin:0 0 14px;text-wrap:balance}
+.sub{color:var(--muted);max-width:52ch;margin:0 0 36px}
+.pfs{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.pf{margin:0;background:var(--panel);border:1px solid var(--line);border-radius:20px;overflow:hidden}
+.pf img{aspect-ratio:16/10;object-fit:cover;object-position:top;width:100%}
+.pf figcaption{padding:16px 18px 20px;display:grid;gap:4px}
+.pf b{font:500 20px/1.25 var(--serif)}.pf span{color:var(--muted);font-size:16px}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;counter-reset:s}
+.step{background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:24px;counter-increment:s}
+.step::before{content:counter(s);display:grid;place-items:center;width:36px;height:36px;border-radius:50%;border:1px solid var(--accent);color:var(--accent);font:500 17px/1 var(--serif);margin-bottom:16px}
+.step h3{font:500 21px/1.2 var(--serif);margin:0 0 8px}.step p{margin:0;color:var(--muted);font-size:17px}
+.list{display:grid;grid-template-columns:repeat(2,1fr);gap:12px 40px;margin:0 0 30px;padding:0;list-style:none;max-width:780px}
+.list li{padding-left:28px;position:relative}.list li::before{content:"";position:absolute;left:0;top:.62em;width:14px;height:2px;background:var(--accent)}
+details{border-bottom:1px solid var(--line);padding:18px 0;max-width:780px}
+summary{cursor:pointer;font:500 20px/1.3 var(--serif);list-style:none;display:flex;justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}summary::after{content:"+";color:var(--accent);font:400 24px/1 var(--sans)}
+details[open] summary::after{content:"\2013"}details p{margin:10px 0 0;color:var(--muted);max-width:60ch}
+.close{text-align:center}.close h2,.close .sub{margin-inline:auto}.close .row{justify-content:center}
+footer{padding-block:28px calc(96px + env(safe-area-inset-bottom,0px));color:var(--muted);font-size:14px;text-align:center;border-top:1px solid var(--line)}
+.sticky{position:fixed;left:0;right:0;bottom:0;z-index:20;display:none;padding:12px max(16px,env(safe-area-inset-right,0px)) calc(12px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));background:var(--bg);border-top:1px solid var(--line);transform:translateY(110%);transition:transform .25s ease}
+.sticky.on{transform:none}.sticky .btn{width:100%;justify-content:center;padding:16px 20px}
+@media (max-width:860px){.hero .wrap{grid-template-columns:1fr}.heroimg{order:-1}.pfs,.steps{grid-template-columns:1fr}.list{grid-template-columns:1fr}.sticky{display:block}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.sticky{transition:none}}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+  <div>
+    <p class="kicker">Logo & brand identity · by Aviel</p>
+    <h1 id="headline">A brand that feels like you <em>before anyone reads a word.</em></h1>
+    <p class="lede">I design your logo and the full kit around it ~ colours, type, social icons and print files ~ so everything you put out looks like one brand.</p>
+    <div class="row"><a class="btn" data-cta="hero" href="#">Start your brand <span aria-hidden="true">&rarr;</span></a><span class="price">From <b>US$25</b> · ordered safely on Fiverr</span></div>
+  </div>
+  <img class="heroimg" src="ebv.jpg" alt="Event Beautification Victoria logo and brand system" fetchpriority="high">
+</div></header>
+<main>
+<section class="alt"><div class="wrap">
+  <h2>Real brands I've built</h2>
+  <p class="sub">Real work for real businesses, not templates.</p>
+  <div class="pfs"><figure class="pf"><img src="ebv.jpg" alt="Event Beautification Victoria" loading="lazy"><figcaption><b>Event Beautification Victoria</b><span>Event décor in Victoria, BC. Logo, mascot, palette, type and web kit.</span></figcaption></figure>
+<figure class="pf"><img src="aventi.jpg" alt="Aventi" loading="lazy"><figcaption><b>Aventi</b><span>A local events app. Stark mark, dark palette and type.</span></figcaption></figure>
+<figure class="pf"><img src="greenisland.jpg" alt="Green Island" loading="lazy"><figcaption><b>Green Island</b><span>A local farm in Saanich. Sprout mark, green palette and type.</span></figcaption></figure></div>
+</div></section>
+<section><div class="wrap">
+  <h2>How it works</h2>
+  <p class="sub">Three steps. You do the first one, I do the rest.</p>
+  <div class="steps"><div class="step"><h3>Tell me about your business</h3><p>Who you serve, the feeling you want, and anything you already love or hate.</p></div>
+<div class="step"><h3>I design concepts</h3><p>Two logo directions, then I refine the one that feels right.</p></div>
+<div class="step"><h3>You get the whole kit</h3><p>Final logo files plus colours, fonts, social icons and print files.</p></div></div>
+</div></section>
+<section class="alt"><div class="wrap">
+  <h2>What you get</h2>
+  <ul class="list"><li>2 logo concepts, then your final logo</li>
+<li>PNG, SVG, vector and print files</li>
+<li>Brand colours and fonts, written down</li>
+<li>Social media kit and stationery designs</li></ul>
+  <a class="btn" data-cta="mid" href="#">Start your brand <span aria-hidden="true">&rarr;</span></a>
+</div></section>
+<section><div class="wrap">
+  <h2>Good to know</h2>
+  <details><summary>How much is it?</summary><p>Logos start at US$25 on Fiverr. Bigger brand kits are in the higher packages there.</p></details>
+<details><summary>Why Fiverr?</summary><p>Your payment is protected there, and you can message me before you order. I answer every message myself.</p></details>
+<details><summary>How long does it take?</summary><p>About 3 days for the logo package. I'll tell you up front if your project needs longer.</p></details>
+<details><summary>Do I own it?</summary><p>Yes. You get your final logo plus the source and vector files.</p></details>
+</div></section>
+<section class="close alt"><div class="wrap">
+  <h2>Ready to look like yourself?</h2>
+  <p class="sub">Tell me about your business. I'll take care of the rest.</p>
+  <div class="row"><a class="btn" data-cta="close" href="#">Start your brand <span aria-hidden="true">&rarr;</span></a><span class="price">From <b>US$25</b></span></div>
+</div></section>
+</main>
+<footer><div class="wrap">Designed and built by Aviel · Victoria, BC<br>This page uses the Meta pixel to measure visits from ads.</div></footer>
+<div class="sticky" id="sticky"><a class="btn" data-cta="sticky" href="#">Start your brand · from US$25 <span aria-hidden="true">&rarr;</span></a></div>
+<script>
+(function () {
+  var F = window.FUNNEL, P = F.params;
+  var track = function (std, name, extra) { try { fbq(std ? 'track' : 'trackCustom', name, Object.assign({}, P, extra || {})); } catch (e) {} };
+  document.getElementById('headline').innerHTML = F.variant.headline;
+  document.querySelectorAll('[data-cta]').forEach(function (a) {
+    a.href = F.order;
+    a.addEventListener('click', function (ev) {
+      var place = a.getAttribute('data-cta');
+      track(true, 'Lead', { content_name: F.service, placement: place });
+      track(true, 'InitiateCheckout', { content_name: F.service, placement: place });
+      if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;
+      ev.preventDefault(); setTimeout(function () { location.href = F.order; }, 320);
+    });
+  });
+  var sticky = document.getElementById('sticky'), deep = false;
+  addEventListener('scroll', function () {
+    var y = scrollY, h = document.documentElement.scrollHeight - innerHeight;
+    sticky.classList.toggle('on', y > innerHeight * .7 && y < h - 240);
+    if (!deep && h > 0 && y / h > .5) { deep = true; track(false, 'Scroll50'); }
+  }, { passive: true });
+})();
+</script>
+</body>
+</html>
