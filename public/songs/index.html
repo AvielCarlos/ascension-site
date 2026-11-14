@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Custom songs by Aviel ~ their story, in a song</title>
-<meta name="description" content="Tell me about someone you love. I write the lyrics and produce a finished song, ready in 2 days. From $25.">
+<meta name="description" content="Tell me about someone you love. I write the lyrics and produce a finished song, ready in 2 days. From US$25.">
 <meta property="og:title" content="A custom song for someone you love, from $25">
 <meta property="og:description" content="Lyrics, vocals and music. Ready in 2 days.">
 <meta property="og:image" content="https://avielcarlos.github.io/ascension-site/songs/og-listener.jpg">
@@ -23,7 +23,8 @@
 <script>
 window.FUNNEL = {
   pixel: '2153021785300175',
-  order: 'https://www.fiverr.com/mrandromeda/create-a-custom-original-song-with-lyrics-vocals-and-music',
+  // Square checkout links per package (Aviel Songs location). Empty = button scrolls to packages.
+  checkout: { short: '', full: '', premium: '' },
   round: 'r1-headline',
   variants: [
     { key: 'a', weight: 1, headline: 'Their story, <em>in a song.</em>' },
@@ -120,6 +121,18 @@ h2{font:500 clamp(30px,5vw,48px)/1.08 var(--serif);letter-spacing:-.01em;margin:
 .chips{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 30px;padding:0;list-style:none}
 .chips li{border:1px solid var(--line);border-radius:999px;padding:8px 16px;font-size:16px;color:var(--ink)}
 
+.pk{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;align-items:stretch}
+.pkg{background:var(--panel);border:1px solid var(--line);border-radius:24px;padding:28px 24px;display:flex;flex-direction:column;gap:14px;position:relative}
+.pkg.best{border-color:var(--amber);box-shadow:0 18px 50px -30px rgba(240,166,70,.8)}
+.pkg .tag{position:absolute;top:-13px;left:24px;background:var(--amber);color:var(--amber-ink);font:600 12px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:7px 12px;border-radius:999px}
+.pkg h3{font:500 24px/1.15 var(--serif);margin:0}
+.pkg .amt{font:500 40px/1 var(--serif)}
+.pkg .amt small{font:400 15px/1 var(--sans);color:var(--muted);margin-left:6px}
+.pkg ul{list-style:none;margin:0;padding:0;display:grid;gap:8px;color:var(--muted);font-size:16px;flex:1}
+.pkg li{padding-left:24px;position:relative}
+.pkg li::before{content:"";position:absolute;left:0;top:.62em;width:12px;height:2px;background:var(--amber)}
+.pkg .btn{justify-content:center}
+.pkg .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);box-shadow:none}
 .get{background:var(--bg2);border-block:1px solid var(--line)}
 .list{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 40px;margin:0 0 36px;padding:0;list-style:none;max-width:780px}
 .list li{padding-left:30px;position:relative}
@@ -145,6 +158,7 @@ footer a{text-underline-offset:3px}
 
 @media (max-width:820px){
   .steps{grid-template-columns:1fr}
+  .pk{grid-template-columns:1fr}
   .split{grid-template-columns:1fr}
   .split img{aspect-ratio:16/11}
   .list{grid-template-columns:1fr}
@@ -164,7 +178,7 @@ footer a{text-underline-offset:3px}
     <p class="lede">Tell me about someone you love. I write the lyrics and produce a finished song ~ ready in 2 days.</p>
     <div class="row">
       <a class="btn" data-cta="hero" href="#">Order your song <span aria-hidden="true">&rarr;</span></a>
-      <span class="price">From <b>$25</b> · ordered safely on Fiverr</span>
+      <span class="price">From <b>US$25</b> · secure checkout by Square</span>
     </div>
     <div class="player" id="player">
       <button class="play" id="play" aria-label="Play the sample song">
@@ -208,6 +222,35 @@ footer a{text-underline-offset:3px}
   </div>
 </section>
 
+<section id="packages">
+  <div class="wrap">
+    <h2>Choose your song</h2>
+    <p class="sub">Every song is written from your story. Prices in US dollars; you pay in CAD at checkout and your bank converts it.</p>
+    <div class="pk">
+      <div class="pkg">
+        <h3>Short song</h3>
+        <div class="amt">$25<small>US · CA$35</small></div>
+        <ul><li>About 1 minute</li><li>1 verse and 1 chorus</li><li>Custom lyrics, vocals and music</li><li>Ready in 2 days</li></ul>
+        <a class="btn ghost" data-buy="short" data-value="35" href="#">Choose short</a>
+      </div>
+      <div class="pkg best">
+        <span class="tag">Most loved</span>
+        <h3>Full song</h3>
+        <div class="amt">$70<small>US · CA$99</small></div>
+        <ul><li>A complete 2 to 3 minute song</li><li>Verses, chorus and bridge</li><li>More of their story in the lyrics</li><li>1 revision · ready in 3 days</li></ul>
+        <a class="btn" data-buy="full" data-value="99" href="#">Choose full song</a>
+      </div>
+      <div class="pkg">
+        <h3>Full song + lyric video</h3>
+        <div class="amt">$120<small>US · CA$169</small></div>
+        <ul><li>Everything in the full song</li><li>A lyric video to share or play at the party</li><li>Rush delivery in 24 hours</li><li>2 revisions</li></ul>
+        <a class="btn ghost" data-buy="premium" data-value="169" href="#">Choose premium</a>
+      </div>
+    </div>
+    <p id="soon" class="sub" hidden style="margin-top:22px">Checkout opens in a moment ~ message me on Facebook in the meantime and I will save your spot.</p>
+  </div>
+</section>
+
 <section>
   <div class="wrap">
     <h2>What you get</h2>
@@ -216,12 +259,12 @@ footer a{text-underline-offset:3px}
       <li>Original lyrics written from your story</li>
       <li>Vocals and full music, produced and finished</li>
       <li>The genre and mood you choose</li>
-      <li>Delivered in 2 days as an audio file</li>
+      <li>Delivered by email as an audio file</li>
     </ul>
     <h2 style="margin-top:56px">Good to know</h2>
-    <details><summary>How much is it?</summary><p>Songs start at $25 USD. You choose the package and pay on Fiverr, which adds its own small service fee at checkout.</p></details>
-    <details><summary>What do you need from me?</summary><p>Who the song is for, the occasion, a few memories or details, and the style of music they love. If you are not sure about the style, tell me what they listen to and I will choose.</p></details>
-    <details><summary>Why Fiverr?</summary><p>Your payment is protected there, and you can message me directly before you order. I answer every message myself.</p></details>
+    <details><summary>How much is it?</summary><p>From US$25 for a short song, US$70 for a full song, or US$120 with a lyric video and 24 hour delivery. Checkout is in Canadian dollars (CA$35, CA$99 or CA$169) and your bank converts it.</p></details>
+    <details><summary>What do you need from me?</summary><p>At checkout you tell me who the song is for, the occasion, a few memories or details, and the style of music they love. If you are not sure about the style, tell me what they listen to and I will choose. I email you within a day if I have a question.</p></details>
+    <details><summary>Is checkout safe?</summary><p>Yes. Payment runs through Square, so I never see your card. If something in the song is not right, I revise it with you.</p></details>
     <details><summary>Can I hear a full song first?</summary><p>Yes ~ the sample above is on Spotify in full. <a href="https://open.spotify.com/track/3iuBJ4GZ1KOnJs1GfvFUo9" target="_blank" rel="noopener" data-out="spotify">Listen on Spotify</a>.</p></details>
   </div>
 </section>
@@ -230,7 +273,7 @@ footer a{text-underline-offset:3px}
   <div class="wrap">
     <h2>Who would you write a song for?</h2>
     <p class="sub">Tell me about them. I will take care of the rest.</p>
-    <div class="row"><a class="btn" data-cta="close" href="#">Order your song <span aria-hidden="true">&rarr;</span></a><span class="price">From <b>$25</b> · ready in 2 days</span></div>
+    <div class="row"><a class="btn" data-cta="close" href="#">Order your song <span aria-hidden="true">&rarr;</span></a><span class="price">From <b>US$25</b> · ready in 2 days</span></div>
   </div>
 </section>
 </main>
@@ -239,7 +282,7 @@ footer a{text-underline-offset:3px}
   <div class="wrap">Songs written and produced by Aviel · Victoria, BC<br>This page uses the Meta pixel to measure visits from ads.</div>
 </footer>
 
-<div class="sticky" id="sticky"><a class="btn" data-cta="sticky" href="#">Order your song · from $25 <span aria-hidden="true">&rarr;</span></a></div>
+<div class="sticky" id="sticky"><a class="btn" data-cta="sticky" href="#">Order your song · from US$25 <span aria-hidden="true">&rarr;</span></a></div>
 
 <script>
 (function () {
@@ -252,17 +295,29 @@ footer a{text-underline-offset:3px}
   document.getElementById('headline').innerHTML = F.variant.headline;
   if (/couple/.test(F.creative)) { document.getElementById('heroimg').src = 'couple.jpg'; }
 
-  // order buttons
+  // order buttons scroll to the packages
   document.querySelectorAll('[data-cta]').forEach(function (a) {
-    a.href = F.order;
-    a.addEventListener('click', function (ev) {
-      var place = a.getAttribute('data-cta');
-      track(true, 'Lead', { content_name: 'custom-song', placement: place });
-      if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;
-      ev.preventDefault();
-      setTimeout(function () { location.href = F.order; }, 320);
+    a.href = '#packages';
+    a.addEventListener('click', function () {
+      track(true, 'Lead', { content_name: 'custom-song', placement: a.getAttribute('data-cta') });
     });
   });
+  // package buttons go to Square checkout
+  document.querySelectorAll('[data-buy]').forEach(function (a) {
+    var tier = a.getAttribute('data-buy'), val = +a.getAttribute('data-value'), url = (F.checkout || {})[tier];
+    a.href = url || '#packages';
+    a.addEventListener('click', function (ev) {
+      track(true, 'InitiateCheckout', { content_name: 'custom-song-' + tier, value: val, currency: 'CAD' });
+      try { localStorage.setItem('songs:last', JSON.stringify(P)); } catch (e) {}
+      if (!url) { ev.preventDefault(); alertBox(); return; }
+      if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;
+      ev.preventDefault();
+      setTimeout(function () { location.href = url; }, 320);
+    });
+  });
+  function alertBox() {
+    var n = document.getElementById('soon'); if (n) { n.hidden = false; n.scrollIntoView({ block: 'center' }); }
+  }
   document.querySelectorAll('[data-out]').forEach(function (a) {
     a.addEventListener('click', function () { track(false, 'OutboundListen', { to: a.getAttribute('data-out') }); });
   });

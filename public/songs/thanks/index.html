@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Thank you ~ your song is on its way</title>
+<meta name="robots" content="noindex">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+(function(){
+  var q=new URLSearchParams(location.search), tier=q.get('tier')||'unknown', val=parseFloat(q.get('value'))||0;
+  var oid=q.get('orderId')||q.get('order_id')||q.get('transactionId')||'';
+  var last={}; try{last=JSON.parse(localStorage.getItem('songs:last')||'{}')}catch(e){}
+  fbq('init','2153021785300175'); fbq('track','PageView');
+  var key='songs:bought:'+(oid||tier+Date.now().toString().slice(0,7)), seen=false;
+  try{seen=!!localStorage.getItem(key); localStorage.setItem(key,'1')}catch(e){}
+  if(!seen) fbq('track','Purchase',Object.assign({value:val,currency:'CAD',content_name:'custom-song-'+tier},last),oid?{eventID:oid}:undefined);
+})();
+</script>
+<style>
+:root{--bg:#17100c;--ink:#fbf1e4;--muted:#cdb9a3;--amber:#f0a646;--line:rgba(255,226,190,.14);color-scheme:dark}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:400 18px/1.6 'Jost','Helvetica Neue',Arial,sans-serif}
+main{max-width:640px;margin:0 auto;padding:clamp(64px,14vh,140px) max(20px,env(safe-area-inset-right,0px)) 80px max(20px,env(safe-area-inset-left,0px))}
+.k{font:500 13px/1 'Jost',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:var(--amber)}
+h1{font:500 clamp(38px,7vw,60px)/1.05 'Fraunces',Georgia,serif;margin:16px 0 18px;text-wrap:balance}
+em{color:var(--amber)}p{color:var(--muted);margin:0 0 16px}
+ol{margin:26px 0 30px;padding-left:22px;color:var(--ink)}li{margin-bottom:10px}
+a{color:var(--amber)}
+</style></head>
+<body><main>
+<p class="k">Order received</p>
+<h1>Thank you ~ <em>their song is on its way.</em></h1>
+<p>You'll get your Square receipt by email in a minute.</p>
+<ol>
+<li>I read your story tonight and start the lyrics.</li>
+<li>If I have a question, I email you within a day.</li>
+<li>Your finished song arrives by email on time.</li>
+</ol>
+<p>Want to add anything else about them? Reply to your receipt email or message me ~ the more little details, the better the song.</p>
+<p>With love,<br>Aviel</p>
+</main></body></html>
