@@ -51,3 +51,7 @@ Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/e
 - **Copy:** COPY.md has a paste-ready title, description and FAQ for songs, logo and web, plus opening lines for the other three gigs.
 - **Status:** the upload to Fiverr was blocked by Fiverr's "Press & Hold" human check on the first video upload. Aviel needs to clear it and do the uploads himself, following the plan at the bottom of COPY.md. Nothing on Fiverr was changed by this pass.
 - **Watch after upload:** gig impressions to clicks to orders, per gig, in the next cycle.
+
+## Christmas campaign (added 13 Nov)
+- 52667179778913 joins the loop. Same kill rule (xmas-a vs xmas-b siblings), same CA$50 retire rule.
+- Hard stop: after Dec 20 orders can't deliver for Christmas, so pause any spend left after 18 Dec.

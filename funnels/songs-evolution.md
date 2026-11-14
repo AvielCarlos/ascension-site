@@ -46,3 +46,9 @@ Aviel: "only 50 each". Stop rule: each service gets CA$50; if it hasn't converte
 - Website (52667151791513): CA$50 lifetime budget, 13-25 Nov. Same two audiences. Ads: Web A (Aventi app, utm web-a), Web B (EBV site, utm web-b) -> /web/.
 - All Meta AI creative enhancements off; images uploaded as designed.
 Read at day 3 and day 7: CTR, landing-page views, Lead/InitiateCheckout by utm_content; Fiverr orders for logo/web.
+
+## 13 Nov 2026 (night) · Christmas songs campaign
+- Campaign 52667179778913 "Christmas songs · US gift buyers · CA$50 test" · Traffic · lifetime CA$50 · 13 Nov to 18 Dec.
+- Ad set 52667179780313: US, women 25-54, gift buyers. Manual placements, Advantage+ creative off.
+- Ads: "Xmas A · listener" (utm_content=xmas-a) and "Xmas B · couple" (utm_content=xmas-b) → /songs/christmas/ (round xmas-r1, 3 headlines).
+- Offer: from $25, ready in 2 days, order by Dec 20.
