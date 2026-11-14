@@ -36,3 +36,18 @@ Proposed with numbers each cycle.
 ## Cycle log
 | Date | Service | Spend | LPV | IC | Orders | Action |
 |---|---|---|---|---|---|---|
+
+## Fiverr gig evolution (13 Nov)
+Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/evolve and in /mnt/user-data/outputs/fiverr-evolve.
+- **12 new gallery images** (1280x769, rendered at 2x):
+  - Songs: hero, how it works, packages
+  - Logo: hero, kit, how it works
+  - Web: hero, included, how it works
+  - Plan, ghostwriting and ads: one "how it works" image each
+- **3 new gig videos** (1920x1080), built only from real work and the existing song ad clips. No AI generation.
+  - Songs: 32 s, with Aviel's song "The Quiet I Was Searching For" underneath
+  - Logo: 26.5 s, silent
+  - Web: 30 s, silent, a walkthrough of the live EBV site and Aventi
+- **Copy:** COPY.md has a paste-ready title, description and FAQ for songs, logo and web, plus opening lines for the other three gigs.
+- **Status:** the upload to Fiverr was blocked by Fiverr's "Press & Hold" human check on the first video upload. Aviel needs to clear it and do the uploads himself, following the plan at the bottom of COPY.md. Nothing on Fiverr was changed by this pass.
+- **Watch after upload:** gig impressions to clicks to orders, per gig, in the next cycle.
