@@ -71,6 +71,7 @@ Every paid ad already has a one-tap button (See details / Learn more). Now each 
 |---|---|---|---|
 | Christmas songs 52667179778913 | Xmas A · listener (xmas-a) | Xmas A · → Fiverr gig 52667279907313 (xmas-fv-a) | fiverr.com/mrandromeda/create-a-custom-original-song-with-lyrics-vocals-and-music |
 | Logo & Brand 52667151788313 | Logo A (logo-a) | Logo A · → Fiverr gig 52667280036113 (logo-fv-a) | fiverr.com/mrandromeda/design-your-logo-and-full-brand-identity-kit |
+| Custom Songs 52666091071313 (added 14 Nov pm) | A Listener, B Couple, C Lyrics only, in both ad sets (6 ads) | 6 twins named "· → Fiverr gig" | fiverr.com/mrandromeda/create-a-custom-original-song-with-lyrics-vocals-and-music (gig is Christmas-themed until 25 Dec, so Fiverr may score low on general song ads) |
 | Website | Web A · Aventi app | Web A · → Fiverr gig 52667280310113 (web-fv-a) | fiverr.com/mrandromeda/build-and-manage-your-website-or-web-app-fast-and-mobile-ready |
 Same creative, copy and audience; only the destination differs. All inside the existing lifetime caps (no new spend).
 Scoring per arm: cost per link click, then orders. Site arm orders = Square orders with that utm_content. Fiverr arm orders = Fiverr orders/messages for that gig after the ad started (Fiverr gig analytics: impressions, clicks, orders) — attribute by timing; Fiverr gives no utm.
@@ -87,3 +88,8 @@ Rules:
 - Skills: all 9 set to Pro.
 - Education: Camosun College, Other, Engineering studies, 2017. Fiverr's only year field is labelled "graduation".
 - Certifications: none. Intro video: Aviel to record (script in fiverr-profile-pack.md).
+
+## 14 Nov 2026 (afternoon) · Songs destination split, plus the cap fix
+- Aviel said "Yes all", so all 6 Custom Songs ads now have a Fiverr-button twin with the same creative and audience.
+- The same publish pushed the pending ad-set schedule drafts from 13 Nov: both songs ad sets now end 20 Nov 00:00 PT. That keeps songs inside the CA$50 cap (live had been running to 13 Dec at CA$8/day).
+- Twins share the existing ad-set budgets, so there is no new spend.
