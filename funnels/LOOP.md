@@ -78,4 +78,4 @@ Rules:
 - After 30+ link clicks per arm: if one arm has an order and the other none, pause the loser.
 - If neither has an order at CA$15 spent per arm, keep the arm with the lower cost per click and try one new change on the other (e.g. a different headline, or the /gift short link).
 - One change at a time per service; log it in the cycle table with the date.
-- Organic Reels have no button (Meta doesn't allow one on unboosted posts). Their captions now point to the short link avielcarlos.github.io/ascension-site/gift. A boosted reel with an "Order now" button needs Aviel's yes (new spend).
+- Organic Reels have no button (Meta doesn't allow one on unboosted posts). A short link exists for captions: avielcarlos.github.io/ascension-site/gift (the two posted Reels still carry the long link; Meta wouldn't open their captions for editing). A boosted reel with an "Order now" button needs Aviel's yes (new spend).
