@@ -38,3 +38,11 @@ Audiences built: "Songs · page visitors 30d", "Songs · engaged video viewers 6
 - Price shown in hero vs only lower down
 - Hero photo: listener vs couple for cold traffic
 - Occasion-specific pages (Christmas, anniversary) once one audience wins
+
+## 13 Nov 2026 (evening) · CA$50 test cap per service
+Aviel: "only 50 each". Stop rule: each service gets CA$50; if it hasn't converted by then, it stops.
+- Songs: ad-set budgets CA$4/day x2, both ad sets now end 20 Nov 00:00 PT (~CA$1.73 spent + ~CA$48 = ~CA$50).
+- Logo & Brand (52667151788313): CA$50 lifetime budget, 13-25 Nov. Ad sets: US small business owners (interests) + US broad Advantage+. Ads: Logo A (EBV board, utm logo-a), Logo B (three brands, utm logo-b) -> /logo/.
+- Website (52667151791513): CA$50 lifetime budget, 13-25 Nov. Same two audiences. Ads: Web A (Aventi app, utm web-a), Web B (EBV site, utm web-b) -> /web/.
+- All Meta AI creative enhancements off; images uploaded as designed.
+Read at day 3 and day 7: CTR, landing-page views, Lead/InitiateCheckout by utm_content; Fiverr orders for logo/web.
