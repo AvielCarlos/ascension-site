@@ -79,3 +79,11 @@ Rules:
 - If neither has an order at CA$15 spent per arm, keep the arm with the lower cost per click and try one new change on the other (e.g. a different headline, or the /gift short link).
 - One change at a time per service; log it in the cycle table with the date.
 - Organic Reels have no button (Meta doesn't allow one on unboosted posts). A short link exists for captions: avielcarlos.github.io/ascension-site/gift (the two posted Reels still carry the long link; Meta wouldn't open their captions for editing). A boosted reel with an "Order now" button needs Aviel's yes (new spend).
+
+## Fiverr profile refresh (14 Nov 2026)
+- Logo gig: noir EBV board is primary; logo video and portfolio PDF swapped to noir versions (video in Fiverr review).
+- Portfolio: 6 projects live (Aventi, EBV, Green Island, Aventi Insiders ads, Vitality plan, Mind On). Costs chosen for revenue: EBV $1200, Green Island $800, Insiders $1500, Vitality $900, Mind On $600.
+- Work experience: Founder, Ascension Technologies Inc. (Feb 2018 to now) under Self-Employed / Freelancer. Fiverr auto-rejected the company listed as its own employer.
+- Skills: all 9 set to Pro.
+- Education: Camosun College, Other, Engineering studies, 2017. Fiverr's only year field is labelled "graduation".
+- Certifications: none. Intro video: Aviel to record (script in fiverr-profile-pack.md).
