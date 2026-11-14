@@ -64,3 +64,18 @@ Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/e
 - Fiverr songs gig turned seasonal (Aviel: "christmas gift songs fully customizable for any taste"): title "I will write a custom christmas gift song in any style"; Christmas description; tags + christmas song (jingle removed); new gig video, Christmas sample audio, gallery x1 (primary) / x2 packages / lead-song. Revert after 25 Dec (old title: "create a custom original song with lyrics, vocals and music"; old video fiverr-song-video.mp4; old audio "Ghost Writer"; old images song-1-hero / "A song that's yours").
 - Retargeting campaign 52667194115713 "Songs retargeting · site visitors + video viewers · CA$20": lifetime CA$20, 4 Dec 06:00 to 18 Dec PT (Meta needs ~14 days minimum for CA$20, so the last-minute window was chosen over 18 Nov), custom audiences Songs page visitors 30d + engaged video viewers 60d as hard controls, all ages/genders US, ads xmas-rt-a / xmas-rt-b to /songs/christmas/.
 - 14 Nov: Logo campaign creative refresh (Aviel: old EBV logo in ads; use Aventi logo too). All 4 logo ads now use the noir EBV crest: Logo A = EBV crest + Aventi logo tiles, Logo B = new EBV noir brand board + Aventi + Green Island. Square 1080 versions in Feeds/in-stream, 4:5 elsewhere; AI enhancements off. Ad names still say "EBV brand board" (Meta rename UI didn't take). Logo landing page ebv.jpg + og.jpg swapped to the noir board.
+
+## Destination test: website vs Fiverr gig (added 14 Nov, Aviel: "test one tap buttons to fiverr gigs, or websites, and evolve the loops continuously")
+Every paid ad already has a one-tap button (See details / Learn more). Now each service tests where that button sends people:
+| Campaign | Site arm (existing) | Fiverr arm (new, 14 Nov) | Fiverr URL |
+|---|---|---|---|
+| Christmas songs 52667179778913 | Xmas A · listener (xmas-a) | Xmas A · → Fiverr gig 52667279907313 (xmas-fv-a) | fiverr.com/mrandromeda/create-a-custom-original-song-with-lyrics-vocals-and-music |
+| Logo & Brand 52667151788313 | Logo A (logo-a) | Logo A · → Fiverr gig 52667280036113 (logo-fv-a) | fiverr.com/mrandromeda/design-your-logo-and-full-brand-identity-kit |
+| Website | Web A · Aventi app | Web A · → Fiverr gig 52667280310113 (web-fv-a) | fiverr.com/mrandromeda/build-and-manage-your-website-or-web-app-fast-and-mobile-ready |
+Same creative, copy and audience; only the destination differs. All inside the existing lifetime caps (no new spend).
+Scoring per arm: cost per link click, then orders. Site arm orders = Square orders with that utm_content. Fiverr arm orders = Fiverr orders/messages for that gig after the ad started (Fiverr gig analytics: impressions, clicks, orders) — attribute by timing; Fiverr gives no utm.
+Rules:
+- After 30+ link clicks per arm: if one arm has an order and the other none, pause the loser.
+- If neither has an order at CA$15 spent per arm, keep the arm with the lower cost per click and try one new change on the other (e.g. a different headline, or the /gift short link).
+- One change at a time per service; log it in the cycle table with the date.
+- Organic Reels have no button (Meta doesn't allow one on unboosted posts). Their captions now point to the short link avielcarlos.github.io/ascension-site/gift. A boosted reel with an "Order now" button needs Aviel's yes (new spend).
