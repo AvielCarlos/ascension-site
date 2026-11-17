@@ -40,6 +40,7 @@ Proposed with numbers each cycle.
 | 16 Nov | Christmas | CA$6.22 | 22 | (in songs total) | 0 | Xmas A listener CTR 9.8%, CA$0.24 CPC; Xmas B couple got 0 delivery; Fiverr arm 3 clicks. No kill. |
 | 16 Nov | Logo | CA$11.00 | 16 | 0 | 0 | KILLED Logo A (EBV + Aventi) in US broad: CA$6.11 spent, CTR 2.20% vs Logo B 5.50%, 0 IC. Logo B keeps the budget. |
 | 16 Nov | Web | CA$12.33 | 16 | 0 | 0 | No kill. Web B (EBV site) leads: 13 clicks at CA$0.47 vs Web A (Aventi) at 2 clicks. Fiverr arm 0 clicks. |
+| 17 Nov | All | (see 16 Nov) | — | — | 0 | Light cycle 16h after the last. No ad newly meets the kill rule; the top spenders (B Couple, Web B, Xmas A) are the leaders. Xmas A, Xmas B, Logo B and Logo→Fiverr show 'Preparing' again; watch delivery. Price test went live today. |
 
 ## Fiverr gig evolution (13 Nov)
 Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/evolve and in /mnt/user-data/outputs/fiverr-evolve.
