@@ -109,7 +109,7 @@ const why = [
           opportunities, connect tools and accounts, and turn intention into practical execution.
         </p>
         <p>
-          Our initial wedge is <strong>Aventi</strong>, focused on experiences, events, free time, and social opportunity. Behind both sits the
+          Our initial wedge is <strong><a href="https://aventi.app">Aventi</a></strong>, focused on experiences, events, free time, and social opportunity. Behind both sits the
           <strong>Internet of Opportunities (IOO)</strong> — the landscape of opportunities, resources, collaborators, tools, tasks, and pathways that
           people need help seeing and acting on.
         </p>
@@ -157,7 +157,7 @@ const why = [
       <div class="grid pillars">
         {pillars.map((pillar) => (
           <article class="card" aria-label={pillar.title}>
-            <h3>{pillar.title}</h3>
+            <h3>{pillar.title === "Aventi" ? <a href="https://aventi.app">Aventi</a> : pillar.title}</h3>
             <p>{pillar.desc}</p>
             <ul>
               {pillar.bullets.map((item) => (
