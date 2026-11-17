@@ -97,3 +97,11 @@ Rules:
 - Aviel said "Yes all", so all 6 Custom Songs ads now have a Fiverr-button twin with the same creative and audience.
 - The same publish pushed the pending ad-set schedule drafts from 13 Nov: both songs ad sets now end 20 Nov 00:00 PT. That keeps songs inside the CA$50 cap (live had been running to 13 Dec at CA$8/day).
 - Twins share the existing ad-set budgets, so there is no new spend.
+
+## 16 Nov 2026 (night) · New test: AI ads & sales funnel (Aviel: "let's just share about the success of our Aventi campaign for now")
+- Campaign "AI Ads & Funnel · US small business · CA$50 test" (52667910764513). Duplicated from Website, CA$50 lifetime, 16–25 Nov.
+- Page: /ads/ (Aventi case study, US$0.34/LPV, 43% under the 2026 average; headline variants a/b/c). Fiverr gig: build-your-ai-powered-ads-and-sales-funnel-using-buyer-psychology (from US$65).
+- US broad · Advantage+: Ads A · Aventi case (ads-a) vs Ads B · A/B test (ads-b), testing the creative.
+- US small business owners · interests: Ads A to the site vs Ads A · → Fiverr gig (ads-fv-a), testing the destination.
+- Ads A marked "media created or edited with AI" (the Aventi creative image). All Advantage+ creative enhancements off.
+- The same kill and destination rules apply. Verdict 25 Nov with logo and web.
