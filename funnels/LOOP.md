@@ -105,3 +105,8 @@ Rules:
 - US small business owners · interests: Ads A to the site vs Ads A · → Fiverr gig (ads-fv-a), testing the destination.
 - Ads A marked "media created or edited with AI" (the Aventi creative image). All Advantage+ creative enhancements off.
 - The same kill and destination rules apply. Verdict 25 Nov with logo and web.
+
+## 17 Nov 2026 · Christmas price test (Aviel: "Full send on both", plus "Reduce the other prices on square too", "Songs gig: lower Std & Premium too")
+- Fiverr Christmas gig is LIVE: Basic "Preview + deposit" US$20 (a 30-sec preview, credited to the full song by custom offer), Full US$50, Song + Video US$90. Was 25/70/120. Fiverr's floor here is US$20 and prices must be multiples of $5, so a $10 deposit isn't possible.
+- Square is PENDING. Aviel approved Short US$19 (CA$27), Full US$49 (CA$69), Premium US$89 (CA$125). The Square connector can't create payment links for Canadian sellers, so the links need the Square Dashboard (Aviel signs in). The Christmas page will switch to the new links and prices once they exist.
+- Revert after 25 Dec: Fiverr 25/70/120 ("Short Song" Basic); Square links HGffbpAQ / V2jETH4r / gKPf6EMY.
