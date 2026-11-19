@@ -25,7 +25,7 @@ window.FUNNEL = {
   pixel: '2153021785300175',
   // Square checkout links per package (Aviel Songs location). Empty = button scrolls to packages.
   checkout: { short: 'https://square.link/u/mrZAxRJm', full: 'https://square.link/u/0HZAcwpj', premium: 'https://square.link/u/7KHoErgX' },
-  round: 'xmas-r2-price19',
+  round: 'xmas-r3-preview',
   variants: [
     { key: 'a', weight: 1, headline: 'A Christmas gift <em>they will never forget.</em>' },
     { key: 'b', weight: 1, headline: 'Put your family&rsquo;s year <em>in a song.</em>' },
@@ -177,8 +177,8 @@ footer a{text-underline-offset:3px}
     <h1 id="headline">A Christmas gift <em>they will never forget.</em></h1>
     <p class="lede">Tell me about the people you love. I write the lyrics and produce a finished Christmas song ~ ready in 2 days. Order by Dec 20 to have it for Christmas.</p>
     <div class="row">
-      <a class="btn" data-cta="hero" href="#">Order your song <span aria-hidden="true">&rarr;</span></a>
-      <span class="price">From <b>US$19</b> · secure checkout by Square</span>
+      <a class="btn" data-cta="hero" href="#">Get your free preview <span aria-hidden="true">&rarr;</span></a>
+      <span class="price">Free 30-second preview first · full song from <b>US$19</b> · <a href="#packages" style="color:inherit">see prices</a></span>
     </div>
     <div class="player" id="player">
       <button class="play" id="play" aria-label="Play the sample song">
@@ -273,7 +273,7 @@ footer a{text-underline-offset:3px}
   <div class="wrap">
     <h2>Who would you write a song for?</h2>
     <p class="sub">Tell me about them. I will take care of the rest.</p>
-    <div class="row"><a class="btn" data-cta="close" href="#">Order your song <span aria-hidden="true">&rarr;</span></a><span class="price">From <b>US$19</b> · ready in 2 days</span></div>
+    <div class="row"><a class="btn" data-cta="close" href="#">Get your free preview <span aria-hidden="true">&rarr;</span></a><span class="price">Hear it first · full song from <b>US$19</b></span></div>
   </div>
 </section>
 </main>
@@ -282,7 +282,7 @@ footer a{text-underline-offset:3px}
   <div class="wrap">Songs written and produced by Aviel · Victoria, BC<br>This page uses the Meta pixel to measure visits from ads.</div>
 </footer>
 
-<div class="sticky" id="sticky"><a class="btn" data-cta="sticky" href="#">Order your song · from US$19 <span aria-hidden="true">&rarr;</span></a></div>
+<div class="sticky" id="sticky"><a class="btn" data-cta="sticky" href="#">Free 30-sec preview · hear it first <span aria-hidden="true">&rarr;</span></a></div>
 
 <script>
 (function () {
@@ -295,11 +295,12 @@ footer a{text-underline-offset:3px}
   document.getElementById('headline').innerHTML = F.variant.headline;
   if (/couple/.test(F.creative)) { document.getElementById('heroimg').src = 'couple.jpg'; }
 
-  // order buttons scroll to the packages
+  // main buttons open the free-preview form (Jotform)
+  var PREVIEW = 'https://form.jotform.com/263224080315043';
   document.querySelectorAll('[data-cta]').forEach(function (a) {
-    a.href = '#packages';
+    a.href = PREVIEW;
     a.addEventListener('click', function () {
-      track(true, 'Lead', { content_name: 'custom-song-christmas', placement: a.getAttribute('data-cta') });
+      track(true, 'Lead', { content_name: 'custom-song-christmas-preview', placement: a.getAttribute('data-cta') });
     });
   });
   // package buttons go to Square checkout

@@ -117,3 +117,8 @@ Rules:
 - Square is PENDING. Aviel approved Short US$19 (CA$27), Full US$49 (CA$69), Premium US$89 (CA$125). The Square connector can't create payment links for Canadian sellers, so the links need the Square Dashboard (Aviel signs in). The Christmas page will switch to the new links and prices once they exist.
 - Revert after 25 Dec: Fiverr 25/70/120 ("Short Song" Basic); Square links HGffbpAQ / V2jETH4r / gKPf6EMY.
 - 17 Nov 08:50: Square links created in Ascension Technologies' Square: Short CA$27 square.link/u/mrZAxRJm · Full CA$69 square.link/u/0HZAcwpj · Premium CA$125 square.link/u/7KHoErgX, each redirecting to /songs/thanks/?tier=&value=&src=xmas. Christmas page now shows US$19 / $49 / $89 (round xmas-r2-price19). The general /songs/ page keeps the old prices until its ads end on 20 Nov.
+
+## 19 Nov 2026 · Aviel picked option 1: focus on Christmas, free preview first
+- Paused: AI Ads & Funnel and Website. Logo & Brand should be paused too. By mistake I switched off "Aventi Promotion" (the list re-sorted between clicks); I asked Aviel to switch it back on and turn Logo off, since edits are now blocked for me.
+- Christmas page (round xmas-r3-preview): the main buttons now open a free 30-second preview form (Jotform form.jotform.com/263224080315043; it asks for name, email, who it's for, story, style). The paid packages (US$19/49/89) stay below. Lead fires on the preview button.
+- Each request: make the 30-sec preview within 2 days, then send it with the full-song link. Watch Jotform submissions in each cycle.
