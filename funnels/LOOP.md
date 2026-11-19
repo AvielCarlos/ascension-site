@@ -41,6 +41,11 @@ Proposed with numbers each cycle.
 | 16 Nov | Logo | CA$11.00 | 16 | 0 | 0 | KILLED Logo A (EBV + Aventi) in US broad: CA$6.11 spent, CTR 2.20% vs Logo B 5.50%, 0 IC. Logo B keeps the budget. |
 | 16 Nov | Web | CA$12.33 | 16 | 0 | 0 | No kill. Web B (EBV site) leads: 13 clicks at CA$0.47 vs Web A (Aventi) at 2 clicks. Fiverr arm 0 clicks. |
 | 17 Nov | All | (see 16 Nov) | — | — | 0 | Light cycle 16h after the last. No ad newly meets the kill rule; the top spenders (B Couple, Web B, Xmas A) are the leaders. Xmas A, Xmas B, Logo B and Logo→Fiverr show 'Preparing' again; watch delivery. Price test went live today. |
+| 19 Nov | Songs | CA$46.03 | 139 | 6 (all song pages) | 0 | VERDICT: ends 20 Nov at ~CA$50 with 0 orders, so retired by the LOOP rule. Ads pull (CTR 6.3%, CA$0.33/LPV); the drop is at checkout. |
+| 19 Nov | Christmas | CA$12.54 | 43 | (in songs) | 0 | Best CTR (8.7%), CA$0.29/LPV. Price test (19/49/89) live since 17 Nov. No kill. |
+| 19 Nov | Logo | CA$21.62 | 26 | 0 | 0 | No kill. Proposed pausing (cold B2B traffic, 0 leads); waiting for Aviel's pick. |
+| 19 Nov | Web | CA$26.54 | 24 | 0 | 0 | No kill. Proposed pausing; waiting for Aviel's pick. |
+| 19 Nov | AI ads | CA$14.83 | 19 | 0 | 0 | No kill. Proposed pausing; waiting for Aviel's pick. Fiverr 'clicks' stay 0 because Fiverr only counts its own search clicks. |
 
 ## Fiverr gig evolution (13 Nov)
 Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/evolve and in /mnt/user-data/outputs/fiverr-evolve.
