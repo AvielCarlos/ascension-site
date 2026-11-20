@@ -122,3 +122,8 @@ Rules:
 - Paused: AI Ads & Funnel and Website. Logo & Brand should be paused too. By mistake I switched off "Aventi Promotion" (the list re-sorted between clicks); I asked Aviel to switch it back on and turn Logo off, since edits are now blocked for me.
 - Christmas page (round xmas-r3-preview): the main buttons now open a free 30-second preview form (Jotform form.jotform.com/263224080315043; it asks for name, email, who it's for, story, style). The paid packages (US$19/49/89) stay below. Lead fires on the preview button.
 - Each request: make the 30-sec preview within 2 days, then send it with the full-song link. Watch Jotform submissions in each cycle.
+
+## 19 Nov 2026 · Decisions (Aviel: "Decisions, then actions")
+- D1 done: Logo & Brand switched Off; Aventi Promotion confirmed Active. Live now: Christmas (CA$50 cap), Custom Songs (ends 20 Nov), Aventi Promotion. Songs retargeting scheduled 4 Dec.
+- D2: Claude drafts a Christmas post + Reel with the free-preview link; nothing posts until Aviel approves.
+- D3 rule: Christmas stays at CA$50. After the FIRST paid order, ask Aviel before raising to CA$100. Never raise without his yes.
