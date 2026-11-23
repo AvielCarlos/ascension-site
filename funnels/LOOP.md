@@ -46,6 +46,11 @@ Proposed with numbers each cycle.
 | 19 Nov | Logo | CA$21.62 | 26 | 0 | 0 | No kill. Proposed pausing (cold B2B traffic, 0 leads); waiting for Aviel's pick. |
 | 19 Nov | Web | CA$26.54 | 24 | 0 | 0 | No kill. Proposed pausing; waiting for Aviel's pick. |
 | 19 Nov | AI ads | CA$14.83 | 19 | 0 | 0 | No kill. Proposed pausing; waiting for Aviel's pick. Fiverr 'clicks' stay 0 because Fiverr only counts its own search clicks. |
+| 23 Nov | Songs | CA$49.72 | 153 | (in songs) | 0 | Final: ended at cap, 1 Lead, 0 purchases. Retired. |
+| 23 Nov | Christmas | CA$19.67 | 57 | 3 Leads, 0 Jotform submits | 0 | Delivery throttled (account unverified). Pivot per Aviel: new Instant Form campaign 52669250735513 (CA$32, to 15 Dec) in review with brighter v2 Reel. Old campaign should go off (needs Aviel's yes). |
+| 23 Nov | Logo | CA$24.29 | 26 | 0 | 0 | VERDICT: stays off, 0 leads. Fiverr logo gig 12 impressions / 1 click / 0 orders (30d). |
+| 23 Nov | Web | CA$26.62 | 24 | 1 Lead, 1 IC | 0 | VERDICT: stays off. Fiverr web gig 6 impressions / 0 orders. |
+| 23 Nov | AI ads | CA$14.83 | 19 | 1 Lead, 1 IC | 0 | VERDICT: stays off. Fiverr AI ads gig 28 impressions / 0 orders. |
 
 ## Fiverr gig evolution (13 Nov)
 Prepared by a parallel agent. Assets are on the Mac in Pictures/Fiverr Samples/evolve and in /mnt/user-data/outputs/fiverr-evolve.
