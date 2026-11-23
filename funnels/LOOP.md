@@ -127,3 +127,11 @@ Rules:
 - D1 done: Logo & Brand switched Off; Aventi Promotion confirmed Active. Live now: Christmas (CA$50 cap), Custom Songs (ends 20 Nov), Aventi Promotion. Songs retargeting scheduled 4 Dec.
 - D2: Claude drafts a Christmas post + Reel with the free-preview link; nothing posts until Aviel approves.
 - D3 rule: Christmas stays at CA$50. After the FIRST paid order, ask Aviel before raising to CA$100. Never raise without his yes.
+
+## 23 Nov 2026 · Clicks but no customers (Aviel picked "Signup inside the ad")
+- Diagnosis 13–21 Nov (Christmas + Custom Songs): ~3,400 impressions, ~206 landing views, 4 tapped "free preview", 0 Jotform submits, 0 purchases. The leak is after the click: the long Jotform asked strangers for a paragraph.
+- Christmas website campaign only spent ~CA$18 of CA$50; Meta flags "ad account performance is limited" until the account is verified (only Aviel can verify).
+- New campaign 52669250735513 "Christmas songs · free preview · Instant Form": Leads objective, Meta Instant Form "Christmas song free preview (Nov 2026)" (email + full name prefilled, one question: who is it for + one memory), Ascension Technologies page, US, women 25+ suggestion, Advantage+ placements, lifetime CA$32, 23 Nov–15 Dec, all AI enhancements off, AI-media disclosure ticked. Creative: xmas-preview-reel.mp4. Thank-you screen links to the Christmas page #player.
+- Privacy page added: /privacy/ (needed for lead forms).
+- PENDING Aviel's yes: turn OFF the old "Christmas songs · US gift buyers · CA$50 test" so total Christmas spend stays within CA$50 (switch-off was blocked for Claude).
+- Leads land in Meta Leads Center. Each lead: Claude drafts lyrics + 30-sec preview within 2 days for Aviel's approval before anything is sent.
