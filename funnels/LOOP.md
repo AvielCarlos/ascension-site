@@ -155,3 +155,11 @@ Rules:
 - 30-sec free previews: generated in ElevenLabs (Eleven Music) by Claude, from the request's lyrics/details. Aviel approves before sending.
 - Full paid songs: produced on Suno (Aviel's account, his prompting conventions: no artist names, descriptor styles, title/style/lyrics blocks).
 - Continuity rule: the full song keeps the preview's lyrics, genre, tempo and vocal type. Test whether Suno's upload/cover can carry the preview melody on the first order.
+
+## 24 Nov 2026 · First requests + smart auto answers (Aviel: "Set up smart auto answers")
+- First results 23 Nov: Instant Form 1 lead at CA$3.93; Messenger: Patricia Taylor (Alabama) tapped "I want my free preview".
+- Ascension Technologies Messenger automations (Business Suite > Inbox > Automations), Messenger only (Instagram is Aventi's, left off):
+  - Auto-reply (first message): asks who the song is for, one memory, vibe; promises free 30-sec preview within 2 days.
+  - Keyword replies ON: Song price (price/how much/cost/pricing), Song timing (how long/when will/in time for christmas/deadline), Who sings / AI (honest AI-vocals disclosure), Order / pay (Aviel sends the checkout link personally), Song styles.
+  - Old "Frequently asked questions" automation left OFF. No automatic follow-ups.
+- Verification flow ("Verify yourself or an organisation") left open in Aviel's Chrome for him. Meta limits ad performance from 1 Dec 2026 if not verified.
