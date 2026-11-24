@@ -163,3 +163,9 @@ Rules:
   - Keyword replies ON: Song price (price/how much/cost/pricing), Song timing (how long/when will/in time for christmas/deadline), Who sings / AI (honest AI-vocals disclosure), Order / pay (Aviel sends the checkout link personally), Song styles.
   - Old "Frequently asked questions" automation left OFF. No automatic follow-ups.
 - Verification flow ("Verify yourself or an organisation") left open in Aviel's Chrome for him. Meta limits ad performance from 1 Dec 2026 if not verified.
+
+## 24 Nov 2026 (pm) · Aviel: "Let's just do everything through Messenger"
+- A/B result after ~1.5 days: Messenger 2 song requests at CA$3.10 each (Jessica gave full details within minutes thanks to the auto answers; preview already sent); Instant Form 1 lead at CA$3.93, unread.
+- Instant Form campaign A switched OFF (A/B test ended early by Aviel's call).
+- Messenger campaign B: lifetime budget CA$15 → CA$26 (form's unspent share moved over; Christmas total stays ≈ CA$50), end date 3 Dec → 7 Dec.
+- Christmas page buttons now open Messenger (m.me/111125623859980?ref=xmas-site) instead of the Jotform; button text "Message me for your free preview".
