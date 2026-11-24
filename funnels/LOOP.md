@@ -175,3 +175,12 @@ Rules:
 - Messenger B campaign 52669360360313 lifetime budget CA$26 -> CA$140 (ends 7 Dec; ~13.4 days left ~ CA$10/day). Published, "1 campaign updated".
 - Songs retargeting (4 Dec, CA$20) unchanged.
 - Loop status: no recurring Christmas-songs cycle task is running (only one-off cycles so far).
+
+## 24 Nov 2026 pm ~ ad evolution started
+- Aviel: "Just evolve the ads that are shown and improve our conversion rate".
+- Baseline (23-24 Nov): original Reel ad 2 conversations, CA$3.63 each.
+- Added to ad set 52669360360713 (same video, copy test):
+  - V2 story angle ~ "What's one memory you'd love to hear in a song? 🎶 ..." / headline "Turn your memory into a song"
+  - V3 deadline angle ~ "Christmas is a month away 🎁 Skip the gift card this year ..." / headline "Free song preview · order by Dec 20"
+- Skipped Meta AI image variations (unchecked quality).
+- Daily loop task trig_01YYvdrfTPhG31y2udhCMsDE, 10:23 am PT, to 7 Dec: kill rule = CA$8+ spent and 2x best cost per conversation; one new challenger at a time; never touches budget or customers.
