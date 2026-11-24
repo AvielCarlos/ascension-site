@@ -184,3 +184,8 @@ Rules:
   - V3 deadline angle ~ "Christmas is a month away 🎁 Skip the gift card this year ..." / headline "Free song preview · order by Dec 20"
 - Skipped Meta AI image variations (unchecked quality).
 - Daily loop task trig_01YYvdrfTPhG31y2udhCMsDE, 10:23 am PT, to 7 Dec: kill rule = CA$8+ spent and 2x best cost per conversation; one new challenger at a time; never touches budget or customers.
+
+## Round 1 ~ started 24 Nov 2026 ~2:30 pm PT
+- Aviel's rule: "Keep whichever are best performing, top 2, and improve them with 2 new options each, and continue this process."
+- Ads: Xmas preview Reel · Messenger (original) / Xmas Messenger · V2 story angle / Xmas Messenger · V3 deadline angle.
+- Judge when every ad has spent CA$5+ or after 3 days; rank by cost per Messenger chat; keep top 2, give each 2 children (6 ads per round); repeat. Run by the daily task trig_01YYvdrfTPhG31y2udhCMsDE.
