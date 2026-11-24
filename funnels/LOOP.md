@@ -169,3 +169,9 @@ Rules:
 - Instant Form campaign A switched OFF (A/B test ended early by Aviel's call).
 - Messenger campaign B: lifetime budget CA$15 → CA$26 (form's unspent share moved over; Christmas total stays ≈ CA$50), end date 3 Dec → 7 Dec.
 - Christmas page buttons now open Messenger (m.me/111125623859980?ref=xmas-site) instead of the Jotform; button text "Message me for your free preview".
+
+## 24 Nov 2026 pm ~ spend raised to ~CA$10/day
+- Aviel: "We should increase our spend to be at least $10 per day" (replaces the CA$50 Christmas cap).
+- Messenger B campaign 52669360360313 lifetime budget CA$26 -> CA$140 (ends 7 Dec; ~13.4 days left ~ CA$10/day). Published, "1 campaign updated".
+- Songs retargeting (4 Dec, CA$20) unchanged.
+- Loop status: no recurring Christmas-songs cycle task is running (only one-off cycles so far).
