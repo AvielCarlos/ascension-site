@@ -150,3 +150,8 @@ Rules:
 - Christmas total stays ≈ CA$50 (old CA$19.67 + A 15 + B 15).
 - Each cycle: read Leads Center (A) and Business Suite inbox (B); draft lyrics + preview + reply for every request; Aviel approves before anything is sent.
 - Ad account verification still only Aviel can do (ID check).
+
+## 23 Nov 2026 · Song production split (Aviel)
+- 30-sec free previews: generated in ElevenLabs (Eleven Music) by Claude, from the request's lyrics/details. Aviel approves before sending.
+- Full paid songs: produced on Suno (Aviel's account, his prompting conventions: no artist names, descriptor styles, title/style/lyrics blocks).
+- Continuity rule: the full song keeps the preview's lyrics, genre, tempo and vocal type. Test whether Suno's upload/cover can carry the preview melody on the first order.
