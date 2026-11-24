@@ -140,3 +140,13 @@ Rules:
 - Privacy page added: /privacy/ (needed for lead forms).
 - PENDING Aviel's yes: turn OFF the old "Christmas songs · US gift buyers · CA$50 test" so total Christmas spend stays within CA$50 (switch-off was blocked for Claude).
 - Leads land in Meta Leads Center. Each lead: Claude drafts lyrics + 30-sec preview within 2 days for Aviel's approval before anything is sent.
+
+## 23 Nov 2026 (evening) · Aviel: "Do it all" + A/B Messenger vs form
+- Old "Christmas songs · US gift buyers · CA$50 test" switched OFF (Aviel's yes).
+- Christmas post + Reel (xmas-preview-reel-v2.mp4, caption with /gift link) shared to Ascension Technologies Facebook + @experienceaventi Instagram via Business Suite.
+- Meta A/B test (Experiments, starts 24 Nov, ends 1 Dec; key metric CPC, but the real verdict = song requests with usable details per CA$):
+  - A: campaign 52669250735513 Instant Form, ad set capped at CA$15 max spend, ends 3 Dec.
+  - B: campaign 52669360360313 "Christmas songs · free preview · Messenger (B)", CA$15 lifetime, ends 3 Dec. Click-to-Messenger (Ascension Technologies page). Greeting asks who the song is for + one memory; 3 quick-reply FAQs (free preview / price US$19/49/89 / styles, AI-produced disclosure). Automatic follow-up message OFF.
+- Christmas total stays ≈ CA$50 (old CA$19.67 + A 15 + B 15).
+- Each cycle: read Leads Center (A) and Business Suite inbox (B); draft lyrics + preview + reply for every request; Aviel approves before anything is sent.
+- Ad account verification still only Aviel can do (ID check).
