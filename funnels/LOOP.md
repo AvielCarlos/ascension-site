@@ -207,3 +207,17 @@ Rules:
   - Reel C: "Xmas Messenger · Reel C Dad country" (gift-card hook + Dad country)
 - Plus copy tests V2 story / V3 deadline on Reel A video. 5 ads total at ~CA$10/day.
 - Instagram: avielandromeda not yet visible to the ad account; ads still show experienceaventi on IG until Aviel adds it in business settings. Loop switches them once it appears.
+
+## 25 Nov 2026 ~9:30 am PT ~ Round 1 check (not ready to judge)
+- Round 1 (5 ads, started 24 Nov; revised 10 pm). Not ready: 3 ads under CA$5; 3-day mark ~27 Nov 10 pm.
+- Lifetime per ad (Ads Manager, maximum range): spend / impressions / link clicks / Messenger chats / cost per chat
+  - Reel A "Xmas preview Reel · Messenger": CA$11.97 / 135 / 10 / 3 / CA$3.99
+  - V3 deadline angle: CA$4.61 / 82 / 3 / 1 / CA$4.61
+  - V2 story angle: CA$1.37 / 39 / 1 / 0 / ~
+  - Reel B Mom ballad: CA$1.63 / 27 / 2 / 0 / ~
+  - Reel C Dad country: CA$0.81 / 18 / 0 / 0 / ~
+  - Total CA$20.39 of CA$140 lifetime. Current leaders: Reel A, then V3.
+- Inbox (ad replies): Jessica (details, preview sent, no reply yet), Patricia (no details), Susan Wehunt (no details; sample sent), Lexi Walston (NEW, from V3: grandparents + late Uncle Murl, country, male vocals; Aviel agreed US$25 for the song as is + $10 revision; Wise link sent; she said "Ok", payment not confirmed).
+- Funnel: 4 chats -> 2 gave details -> 2 previews/songs shared -> 0 paid (1 agreed to pay).
+- Instagram identity: only experienceaventi in the dropdown; avielandromeda not available yet, unchanged.
+- Budget step-up: not due (no FIRST SALE line, before 28 Nov).
