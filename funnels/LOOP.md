@@ -189,3 +189,8 @@ Rules:
 - Aviel's rule: "Keep whichever are best performing, top 2, and improve them with 2 new options each, and continue this process."
 - Ads: Xmas preview Reel · Messenger (original) / Xmas Messenger · V2 story angle / Xmas Messenger · V3 deadline angle.
 - Judge when every ad has spent CA$5+ or after 3 days; rank by cost per Messenger chat; keep top 2, give each 2 children (6 ads per round); repeat. Run by the daily task trig_01YYvdrfTPhG31y2udhCMsDE.
+
+## 24 Nov 2026 8 pm ~ funnel check + budget step-up rule
+- Spend 23-24 Nov: original Reel CA$11.05 (2 conv in Ads Manager, CA$5.53 each), V2 CA$1.06, V3 CA$1.59 (0 yet). Total ~CA$13.70.
+- Inbox (ad replies): Jessica (details given, preview sent, awaiting reply), Patricia (no details yet), Susan Wehunt (19:50, no details yet). 3 chats ~CA$4.57 each; 1/3 gave details; 0 paid.
+- Aviel chose: raise to CA$15/day at the first sale, or Fri 28 Nov if none by then. The daily loop does it once. To trigger early, add a line starting "FIRST SALE" here.
