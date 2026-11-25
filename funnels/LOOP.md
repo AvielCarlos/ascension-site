@@ -194,3 +194,7 @@ Rules:
 - Spend 23-24 Nov: original Reel CA$11.05 (2 conv in Ads Manager, CA$5.53 each), V2 CA$1.06, V3 CA$1.59 (0 yet). Total ~CA$13.70.
 - Inbox (ad replies): Jessica (details given, preview sent, awaiting reply), Patricia (no details yet), Susan Wehunt (19:50, no details yet). 3 chats ~CA$4.57 each; 1/3 gave details; 0 paid.
 - Aviel chose: raise to CA$15/day at the first sale, or Fri 28 Nov if none by then. The daily loop does it once. To trigger early, add a line starting "FIRST SALE" here.
+
+## 24 Nov 2026 9 pm ~ reel variants
+- Aviel asked to test reel variants. Made 2 re-cuts from the same footage (no new generation): reel B "When they hear a song about them." (headphones hook, 13.5 s) and reel C "Skip the gift card this year." (couple hook, 13 s). On the Mac in Pictures/Fiverr Samples.
+- Added to the tournament: from Round 2, each parent's child b = same text + a new video, so video and copy are tested apart.
