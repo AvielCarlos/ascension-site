@@ -198,3 +198,12 @@ Rules:
 ## 24 Nov 2026 9 pm ~ reel variants
 - Aviel asked to test reel variants. Made 2 re-cuts from the same footage (no new generation): reel B "When they hear a song about them." (headphones hook, 13.5 s) and reel C "Skip the gift card this year." (couple hook, 13 s). On the Mac in Pictures/Fiverr Samples.
 - Added to the tournament: from Round 2, each parent's child b = same text + a new video, so video and copy are tested apart.
+
+## Round 1 (revised) ~ 24 Nov 2026 ~10 pm ~ 3 reels, 3 songs
+- Aviel: "test three reels please with different songs". Made 2 new 20 s songs on ElevenLabs Music (eleven_music_v2_5, ~1.8K credits total): classic Christmas ballad "Mom, you always lit the tree..." (female vocal) and upbeat country-pop "Dad, you sang every song on the radio..." (male vocal).
+- Live now (all original copy, so reels compare video+song):
+  - Reel A: "Xmas preview Reel · Messenger" (couple hook, original song)
+  - Reel B: "Xmas Messenger · Reel B Mom ballad" (headphones hook + Mom ballad)
+  - Reel C: "Xmas Messenger · Reel C Dad country" (gift-card hook + Dad country)
+- Plus copy tests V2 story / V3 deadline on Reel A video. 5 ads total at ~CA$10/day.
+- Instagram: avielandromeda not yet visible to the ad account; ads still show experienceaventi on IG until Aviel adds it in business settings. Loop switches them once it appears.
