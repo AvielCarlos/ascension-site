@@ -221,3 +221,17 @@ Rules:
 - Funnel: 4 chats -> 2 gave details -> 2 previews/songs shared -> 0 paid (1 agreed to pay).
 - Instagram identity: only experienceaventi in the dropdown; avielandromeda not available yet, unchanged.
 - Budget step-up: not due (no FIRST SALE line, before 28 Nov).
+
+## 26 Nov 2026 ~10:30 am PT ~ Round 1 check (not ready to judge)
+- Round 1 (5 ads). Not ready: Reel B and Reel C under CA$5; 3-day mark ~27 Nov 10 pm PT, so judging is next run.
+- Lifetime per ad (23-26 Nov): spend / impressions / link clicks / Messenger chats / cost per chat
+  - V2 story angle: CA$6.11 / 123 / 4 / 3 / CA$2.04 (new leader)
+  - Reel A "Xmas preview Reel · Messenger": CA$14.12 / 156 / 11 / 4 / CA$3.53
+  - V3 deadline angle: CA$8.80 / 174 / 6 / 1 / CA$8.80
+  - Reel B Mom ballad: CA$2.35 / 43 / 3 / 0 / ~
+  - Reel C Dad country: CA$2.55 / 34 / 0 / 0 / ~
+  - Total CA$33.93 of CA$140. Last 24 h: ~CA$13.5, 4 new chats.
+- Inbox (ad replies, 8 total = Ads Manager): NEW Teresa Capps (V2; for Tracy, William, Joey ~ "when they were little"; asked for memories + genre), Bobbie Shay (V2; tapped free preview, no details), Ken Walker (no details; offered US$25), Marvin Lambert (Reel A, today; asked price only). Earlier: Jessica (preview sent, no reply yet), Lexi (agreed US$25 via Wise, payment not confirmed), Patricia and Susan (no details).
+- Funnel: 8 chats -> 3 gave details (Jessica, Lexi, Teresa partial) -> 2 previews/songs shared -> 0 paid.
+- Instagram identity: dropdown still only experienceaventi; unchanged.
+- Budget step-up: not due (no FIRST SALE, before 28 Nov).
