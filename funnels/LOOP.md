@@ -235,3 +235,17 @@ Rules:
 - Funnel: 8 chats -> 3 gave details (Jessica, Lexi, Teresa partial) -> 2 previews/songs shared -> 0 paid.
 - Instagram identity: dropdown still only experienceaventi; unchanged.
 - Budget step-up: not due (no FIRST SALE, before 28 Nov).
+
+## 27 Nov 2026 ~9:30 am PT ~ Round 1 check (not ready to judge)
+- Round 1 (5 ads). Not ready: Reel B (CA$3.27) and Reel C (CA$4.03) still under CA$5; the 3-day mark is tonight ~10 pm PT, so the next run (28 Nov) judges it and applies the budget step-up.
+- Lifetime per ad (Ads Manager, maximum): spend / impressions / link clicks / Messenger chats / cost per chat
+  - V2 story angle: CA$8.72 / 173 / 5 / 3 / CA$2.91 (leader)
+  - Reel A "Xmas preview Reel · Messenger": CA$14.36 / 162 / 11 / 4 / CA$3.59
+  - V3 deadline angle: CA$12.11 / 232 / 7 / 2 / CA$6.06
+  - Reel C Dad country: CA$4.03 / 70 / 1 / 0 / ~
+  - Reel B Mom ballad: CA$3.27 / 57 / 4 / 0 / ~
+  - Total CA$42.49 of CA$140. Last ~23 h: ~CA$8.6, 1 new chat.
+- Inbox (9 ad chats = Ads Manager): NEW Amanda Osinski (26 Nov, ad 52669524208513; asked price and short vs full, no details yet; Aviel offered a preview). Lexi: said "Yes" to receiving the song, asked to pay first; payment not confirmed. Bobbie, Ken, Marvin, Jessica, Teresa, Patricia, Susan: no new details.
+- Funnel: 9 chats -> 3 gave details (Jessica, Lexi, Teresa partial) -> 2 previews/songs shared -> 0 paid.
+- Instagram identity: dropdown still only experienceaventi; unchanged.
+- Budget step-up: not due today (no FIRST SALE, before 28 Nov); due next run.
